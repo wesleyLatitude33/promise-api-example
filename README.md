@@ -1,2 +1,6 @@
 # promise-api-example
-A example to aplication javascript with promise and API
+Um exemplo básico de construção de uma promise com javascript onde realizamos um acesso a uma API pública para testar o conceito.
+
+<ul>
+    <li>Fonte API: https://rickandmortyapi.com/</li>
+</ul>

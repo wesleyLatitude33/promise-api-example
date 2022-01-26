@@ -1,0 +1,47 @@
+.box {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+h1, h3{
+    font-family: sans-serif;
+    text-align: center;
+}
+/* --- CARD COM DESCRIÇÃO DO PERSONAGEM*/
+.card{
+    background-color: #8FBC8F;
+    border: 1px solid #5F9EA0;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.personagem{
+    border-radius: 50%;
+    width: 280px;
+}
+ul{
+    text-align: left;
+}
+ul li{
+    display: flex;
+    font-family: sans-serif;
+    height: 35px;
+    margin-left: -30px;
+}
+
+/* --- BOTÃO ESTILIZADO ---*/
+.btn {
+    border: none;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn-success {
+    background-color: 	#4169E1;
+    outline: none;
+    color:#fff;
+}
+.btn-success:hover {
+    background-color: 	#6495ED;
+}
